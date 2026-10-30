@@ -1,0 +1,1 @@
+# Quantitative-Risk-Scoring-Tool-to-Calculate-the-Financial-Loss-Expectancy
